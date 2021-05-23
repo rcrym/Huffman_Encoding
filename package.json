@@ -1,0 +1,19 @@
+{
+  "name": "Huffman_Encoding",
+  "version": "1.0.0",
+  "description": "Data Structures Huffman Encoding Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://nexus.headroyce.org/rileyc2022/Huffman_Encoding.git"
+  },
+  "keywords": [],
+  "author": "Riley C",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.1.1"
+  }
+}
