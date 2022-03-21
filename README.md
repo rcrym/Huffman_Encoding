@@ -1,6 +1,6 @@
 # Huffman Encoding
 
-This is my Javascript implementation of the Huffman Encoding algorithm, a "optimal prefix code [algorithm] that is commonly used for lossless data compression".
+This is my Javascript implementation of the Huffman Encoding algorithm, a "optimal prefix code [algorithm] that is commonly used for lossless data compression" ([Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)).
 
 
 To run:
